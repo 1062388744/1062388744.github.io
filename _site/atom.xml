@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title></title>
+ <link href="http://www.panxw.com/atom.xml" rel="self"/>
+ <link href="http://www.panxw.com"/>
+ <updated>2018-04-01T23:09:34-07:00</updated>
+ <author>
+   <name>潘学文</name>
+   <email>winfirm#163.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>人生什么更重要？[测试]</title>
+   <link href="http://www.panxw.com/posts/which-more-important.html"/>
+   <updated>2010-01-01T00:00:00-08:00</updated>
+   <id>/posts/which-more-important</id>
+   <content type="html">&lt;h3 id=&quot;哪个更重要&quot;&gt;哪个更重要？&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;方向比努力重要，&lt;br /&gt;
+身体比金钱重要，&lt;br /&gt;
+生活比文凭重要，&lt;br /&gt;
+情商比智商重要，&lt;br /&gt;
+能力比知识重要，&lt;br /&gt;
+行动比（愿望）空想重要。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;一生最重要的7项资产&quot;&gt;一生最重要的7项资产&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;1，健康：人类的第一资产，  
+2，财富：资产的最重要诠释，  
+3，智慧：改变命运的资本，  
+4，婚姻与家庭：身心的避风港，  
+5，心灵：深查世界的棱镜，  
+6，友谊：一生快乐源泉，  
+7，人生的意义：成长的源动力。  
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;人生四句话&quot;&gt;人生四句话&lt;/h3&gt;
+
+&lt;p&gt;把自己当成别人（痛苦），&lt;br /&gt;
+把别人当成自己（同情），&lt;br /&gt;
+把别人当成别人（尊重），&lt;br /&gt;
+把自己当成自己（走自己的路）。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
